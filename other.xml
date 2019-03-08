@@ -1,0 +1,26 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="255-255-255-255" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="RD.Init.Cfg.2" value="true" />
+    <property name="RD.Init.DialogShown.Ide" value="true" />
+    <property name="SettingsSearchHistory" value="terminal&#10;theme&#10;color&#10;tab&#10;color scheme" />
+    <property name="TrendingPluginsSearchHistory" value="theme ui&#10;theme&#10;rainglow&#10;base" />
+    <property name="evlsprt.183" value="169bf7850dc" />
+    <property name="evlsprt2.183" value="1695ed42105" />
+    <property name="evlsprt3.183" value="19" />
+    <property name="export.settings.path" value="RiderSettings.zip" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Documents/Workspace/C# Practice/MessAround/MessAround/MessAround.sln&#10;/Users/ahkrindescol/Documents/Software/CLion/Themes/base16-classic-dark.icls&#10;/Users/ahkrindescol/Documents/Software/Rider/base16-default-dark.icls&#10;/Users/ahkrindescol/Documents/Software/Rider/base16-default-dark.jar" />
+    <property name="file.gist.reindex.count" value="1" />
+    <property name="ideavim.statistics.timestamp" value="1551975673963" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="last_open_solution_path" value="$USER_HOME$/Documents/Workspace/C# Practice/MessAround/MessAround" />
+    <property name="last_selected_template" value="Console Application|.NET Core" />
+    <property name="last_selected_template_parameters" value="Language=C#;Framework=netcoreapp2.1;" />
+    <property name="param.hints.settings.last.edited.language" value="JAVA" />
+    <property name="selected.color.option.type" value="CONSOLE_WHITE_OUTPUT" />
+    <property name="settings.code.style.selected.tab.C#" value="Tabs, Indents, Alignment" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>
