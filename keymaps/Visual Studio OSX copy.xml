@@ -1,0 +1,5 @@
+<keymap version="1" name="Visual Studio OSX copy" parent="Visual Studio OSX">
+  <action id="ToggleInlineHintsAction">
+    <keyboard-shortcut first-keystroke="ctrl meta p" />
+  </action>
+</keymap>
