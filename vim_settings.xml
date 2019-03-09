@@ -9,7 +9,7 @@
         <mark key="^" line="8" column="43" />
         <mark key="." line="6" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552160507995">
+      <file name="/Dummy.txt" timestamp="1552165460624">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -20,11 +20,13 @@
         <mark key="." line="14" column="4" />
         <mark key="^" line="6" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/C#/MessAround/MessAround/MessAround/StructExperiments.cs" timestamp="1552162981897">
-        <mark key="[" line="4" column="7" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Documents/Workspace/C#/MessAround/MessAround/MessAround/StructExperiments.cs" timestamp="1552165259061">
+        <mark key="a" line="10" column="14" />
+        <mark key="'" line="7" column="14" />
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="12" column="21" />
+        <mark key="." line="12" column="21" />
+        <mark key="^" line="12" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/C#/MessAround/MessAround/MessAroundTests/EnumTests.cs" timestamp="1552163049952">
         <mark key="'" line="29" column="46" />
@@ -37,13 +39,16 @@
     <jumps>
       <jump line="10" column="8" filename="$USER_HOME$/Documents/Workspace/C#/MessAround/MessAround/MessAroundTests/EnumTests.cs" />
       <jump line="29" column="46" filename="$USER_HOME$/Documents/Workspace/C#/MessAround/MessAround/MessAroundTests/EnumTests.cs" />
+      <jump line="6" column="14" filename="$USER_HOME$/Documents/Workspace/C#/MessAround/MessAround/MessAround/StructExperiments.cs" />
+      <jump line="7" column="14" filename="$USER_HOME$/Documents/Workspace/C#/MessAround/MessAround/MessAround/StructExperiments.cs" />
+      <jump line="12" column="0" filename="$USER_HOME$/Documents/Workspace/C#/MessAround/MessAround/MessAround/StructExperiments.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="/" type="4">
         <text>One</text>
@@ -52,34 +57,34 @@
         <text encoding="base64">CQkJQXNzZXJ0LkVxdWFsKGVsZW1lbnRzTWFwLkdldFZhbHVlKDApLCBPdXRlckVudW1FeGFtcGxlLlZhbHVlT25lKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQlzdHVmZgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCUFzc2VydC5FcXVhbCgpOwo=</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJewo=</text>
+        <text encoding="base64">CQkJCUFzc2VydC5FcXVhbCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJZm9yZWFjaCAodmFyIGVsZW1lbnQgaW4gZWxlbWVudHNNYXApCg==</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZW51bSBPdXRlckVudW1FeGFtcGxlCiAgICB7CiAgICAgICAgVmFsdWVPbmUgPSA1LAogICAgICAgIFZhbHVlVHdvID0gMjksCiAgICAgICAgVmFsdWVUaHJlZSA9IDM0MgogICAgfQogICAgCg==</text>
+        <text encoding="base64">CQkJewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkJZm9yZWFjaCAodmFyIGVsZW1lbnQgaW4gZWxlbWVudHNNYXApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlbXQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZW51bSBPdXRlckVudW1FeGFtcGxlCiAgICB7CiAgICAgICAgVmFsdWVPbmUgPSA1LAogICAgICAgIFZhbHVlVHdvID0gMjksCiAgICAgICAgVmFsdWVUaHJlZSA9IDM0MgogICAgfQogICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>marks</text>
       </register>
     </registers>
     <search>
@@ -95,6 +100,7 @@
       </history-search>
       <history-cmd>
         <entry>w</entry>
+        <entry>marks</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
@@ -103,6 +109,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
