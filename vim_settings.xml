@@ -3,28 +3,34 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Workspace/C#/MessAround/MessAround/MessAround/Program.cs" timestamp="1552158728251">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
+      <file name="$USER_HOME$/Documents/Workspace/C#/MessAround/MessAround/MessAround/Program.cs" timestamp="1552163222552">
+        <mark key="[" line="6" column="33" />
+        <mark key="]" line="6" column="33" />
         <mark key="^" line="8" column="43" />
-        <mark key="." line="6" column="0" />
+        <mark key="." line="6" column="33" />
       </file>
       <file name="/Dummy.txt" timestamp="1552160507995">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/C#/MessAround/MessAround/MessAround/EnumExperiments.cs" timestamp="1552159303435">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="11" column="9" />
-        <mark key="." line="6" column="29" />
+      <file name="$USER_HOME$/Documents/Workspace/C#/MessAround/MessAround/MessAround/EnumExperiments.cs" timestamp="1552163338364">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="4" />
+        <mark key="." line="14" column="4" />
         <mark key="^" line="6" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/C#/MessAround/MessAround/MessAroundTests/EnumTests.cs" timestamp="1552160397213">
+      <file name="$USER_HOME$/Documents/Workspace/C#/MessAround/MessAround/MessAround/StructExperiments.cs" timestamp="1552162981897">
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/C#/MessAround/MessAround/MessAroundTests/EnumTests.cs" timestamp="1552163049952">
         <mark key="'" line="29" column="46" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="25" column="41" />
       </file>
     </filemarks>
@@ -34,10 +40,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Ahkrin 'Descol</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="-" type="4">
-        <text>Ahkrin 'Descol</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
         <text>One</text>
@@ -46,31 +52,31 @@
         <text encoding="base64">CQkJQXNzZXJ0LkVxdWFsKGVsZW1lbnRzTWFwLkdldFZhbHVlKDApLCBPdXRlckVudW1FeGFtcGxlLlZhbHVlT25lKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCUFzc2VydC5FcXVhbCgpOwo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CQkJCUFzc2VydC5FcXVhbCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJewo=</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJZm9yZWFjaCAodmFyIGVsZW1lbnQgaW4gZWxlbWVudHNNYXApCg==</text>
+        <text encoding="base64">CQkJewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZW51bSBPdXRlckVudW1FeGFtcGxlCiAgICB7CiAgICAgICAgVmFsdWVPbmUgPSA1LAogICAgICAgIFZhbHVlVHdvID0gMjksCiAgICAgICAgVmFsdWVUaHJlZSA9IDM0MgogICAgfQogICAgCg==</text>
+        <text encoding="base64">CQkJZm9yZWFjaCAodmFyIGVsZW1lbnQgaW4gZWxlbWVudHNNYXApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZW51bSBPdXRlckVudW1FeGFtcGxlCiAgICB7CiAgICAgICAgVmFsdWVPbmUgPSA1LAogICAgICAgIFZhbHVlVHdvID0gMjksCiAgICAgICAgVmFsdWVUaHJlZSA9IDM0MgogICAgfQogICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlbXQo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CQlbXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -94,6 +100,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
