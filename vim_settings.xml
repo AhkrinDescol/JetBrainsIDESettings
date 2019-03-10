@@ -9,10 +9,15 @@
         <mark key="^" line="8" column="43" />
         <mark key="." line="6" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552165460624">
+      <file name="/Dummy.txt" timestamp="1552184017348">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/C#/MessAround/MessAround/MessAroundTests/StructTests.cs" timestamp="1552184000140">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="4" />
+        <mark key="." line="5" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/C#/MessAround/MessAround/MessAround/EnumExperiments.cs" timestamp="1552163338364">
         <mark key="[" line="14" column="4" />
@@ -28,12 +33,8 @@
         <mark key="." line="12" column="21" />
         <mark key="^" line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/C#/MessAround/MessAround/MessAroundTests/EnumTests.cs" timestamp="1552180481029">
+      <file name="$USER_HOME$/Documents/Workspace/C#/MessAround/MessAround/MessAroundTests/EnumTests.cs" timestamp="1552183802598">
         <mark key="'" line="29" column="46" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="25" column="41" />
       </file>
     </filemarks>
     <jumps>
@@ -45,10 +46,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkvLyBUZXN0aW5nIHRvIHNlZSB0aGUgYmVoYXZpb3VyIG9mIGEgc3RydWN0IGluIHJlbGF0aW9uIHRvIG9iamVjdHMuCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text>NotEqual</text>
       </register>
       <register name="/" type="4">
         <text>One</text>
@@ -57,34 +58,34 @@
         <text encoding="base64">CQkJQXNzZXJ0LkVxdWFsKGVsZW1lbnRzTWFwLkdldFZhbHVlKDApLCBPdXRlckVudW1FeGFtcGxlLlZhbHVlT25lKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkvLyBUZXN0aW5nIHRvIHNlZSB0aGUgYmVoYXZpb3VyIG9mIGEgc3RydWN0IGluIHJlbGF0aW9uIHRvIG9iamVjdHMuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlzdHVmZgo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+        <text encoding="base64">CQlzdHVmZgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCUFzc2VydC5FcXVhbCgpOwo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CQkJCUFzc2VydC5FcXVhbCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJewo=</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJZm9yZWFjaCAodmFyIGVsZW1lbnQgaW4gZWxlbWVudHNNYXApCg==</text>
+        <text encoding="base64">CQkJewo=</text>
       </register>
       <register name=":" type="4">
-        <text>marks</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -99,8 +100,8 @@
         <entry>One</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>marks</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
