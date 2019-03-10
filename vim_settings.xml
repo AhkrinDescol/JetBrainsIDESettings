@@ -28,11 +28,11 @@
         <mark key="." line="12" column="21" />
         <mark key="^" line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/C#/MessAround/MessAround/MessAroundTests/EnumTests.cs" timestamp="1552163049952">
+      <file name="$USER_HOME$/Documents/Workspace/C#/MessAround/MessAround/MessAroundTests/EnumTests.cs" timestamp="1552180481029">
         <mark key="'" line="29" column="46" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
         <mark key="^" line="25" column="41" />
       </file>
     </filemarks>
@@ -45,7 +45,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">cHJpdmF0ZSA=</text>
@@ -57,31 +57,31 @@
         <text encoding="base64">CQkJQXNzZXJ0LkVxdWFsKGVsZW1lbnRzTWFwLkdldFZhbHVlKDApLCBPdXRlckVudW1FeGFtcGxlLlZhbHVlT25lKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlzdHVmZgo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+        <text encoding="base64">CQlzdHVmZgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCUFzc2VydC5FcXVhbCgpOwo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CQkJCUFzc2VydC5FcXVhbCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJewo=</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJZm9yZWFjaCAodmFyIGVsZW1lbnQgaW4gZWxlbWVudHNNYXApCg==</text>
+        <text encoding="base64">CQkJewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZW51bSBPdXRlckVudW1FeGFtcGxlCiAgICB7CiAgICAgICAgVmFsdWVPbmUgPSA1LAogICAgICAgIFZhbHVlVHdvID0gMjksCiAgICAgICAgVmFsdWVUaHJlZSA9IDM0MgogICAgfQogICAgCg==</text>
+        <text encoding="base64">CQkJZm9yZWFjaCAodmFyIGVsZW1lbnQgaW4gZWxlbWVudHNNYXApCg==</text>
       </register>
       <register name=":" type="4">
         <text>marks</text>
@@ -102,6 +102,8 @@
         <entry>w</entry>
         <entry>marks</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
