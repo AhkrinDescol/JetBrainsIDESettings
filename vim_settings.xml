@@ -9,7 +9,7 @@
         <mark key="^" line="9" column="22" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552268438406">
+      <file name="/Dummy.txt" timestamp="1553449167037">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -19,6 +19,9 @@
         <mark key="]" line="34" column="83" />
         <mark key="^" line="34" column="83" />
         <mark key="." line="34" column="83" />
+      </file>
+      <file name="/a.sql" timestamp="1553449246093">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/C#/MessAround/MessAround/MessAround/EnumExperiments.cs" timestamp="1552163338364">
         <mark key="[" line="14" column="4" />
@@ -33,6 +36,12 @@
         <mark key="]" line="32" column="74" />
         <mark key="." line="32" column="74" />
         <mark key="^" line="32" column="74" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c1f1c227-0e9d-4231-be30-8892ba135551/console.sql" timestamp="1553449198187">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/C#/MessAround/MessAround/MessAroundTests/EnumTests.cs" timestamp="1552183802598">
         <mark key="'" line="29" column="46" />
